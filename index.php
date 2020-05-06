@@ -84,7 +84,7 @@
 		<div class="container fh5co-hero-inner">
 			<h1 class="animated fadeIn wow" data-wow-delay="0.4s">An invaluable Assistant to help you or yours get admission and pursue your dreams!</h1>
 			<img class="animated fadeInRight wow" data-wow-delay="1s" src="img/juliet/_icon.png" height="100" width="100" alt="Jambo">
-			<p class="animated fadeIn wow" data-wow-delay="0.67s">I'll tell you all you need to achieve your dreams in Nigeria. Packed with a brilliant chatbot, a robust searchable e-brochure, this is the last app you'll ever need to get admission and achieve your dreams.</p>
+			<p class="animated fadeIn wow" data-wow-delay="0.67s">Packed with a brilliant chatbot, a robust searchable e-brochure, this is the last app you'll ever need to get admission and achieve your dreams.</p>
 			<button class="btn btn-md download-btn-first wow fadeInLeft animated" data-wow-delay="0.85s" onclick="$('#fh5co-download').goTo();return false;">Download</button>
 			<button class="btn btn-md features-btn-first animated fadeInLeft wow" data-wow-delay="0.95s" onclick="$('#fh5co-features').goTo();return false;">Features</button>
 			<img class="fh5co-hero-smartphone animated fadeInRight wow" data-wow-delay="1s" src="img/juliet/iphone-1.png" alt="Smartphone">
