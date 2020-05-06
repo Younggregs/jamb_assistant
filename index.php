@@ -15,7 +15,7 @@
 	<meta name="og:image" content="/img/juliet/_icon.png">
 	<meta name="image" content="/img/juliet/_icon.png">
 	<meta name="title" content="JAMB Assistant &mdash; All you need to achieve your dreams">
-  <meta name="description" content="An invaluable Assistant to help you or yours get admission and pursue your dreams!">
+  	<meta name="description" content="An invaluable Assistant to help you or yours get admission and pursue your dreams!">
 
 	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="JAMB Assistant &mdash; All you need to achieve your dreams"/>
